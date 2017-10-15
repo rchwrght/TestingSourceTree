@@ -8,6 +8,7 @@ public class MyScript : MonoBehaviour {
 	void Start () {
         print("VCS test");
         print("Added extra Line");
+        print("This should just appear on source tree");
 	}
 	
 	// Update is called once per frame
